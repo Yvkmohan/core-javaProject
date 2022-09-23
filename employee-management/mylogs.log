@@ -1,0 +1,23 @@
+[INFO ] 2022-09-23 13:08:09.636 [main]  - is Employee Created:=false
+[INFO ] 2022-09-23 13:09:58.975 [main]  - is Employee Created:=false
+[INFO ] 2022-09-23 13:11:17.985 [main]  - First name and PhoneNumber of all employees
+[INFO ] 2022-09-23 13:14:09.708 [main]  - is Employee Created:=false
+[INFO ] 2022-09-23 13:15:47.496 [main]  - is Employee Created:=true
+[ERROR] 2022-09-23 13:17:25.624 [main]  - Particular Employee with the given name: zfdgf and email: ccvgtr is not found
+[INFO ] 2022-09-23 14:38:46.700 [main]  - First name and PhoneNumber of all employees
+[INFO ] 2022-09-23 14:40:21.995 [main]  - is Employee Created:=true
+[ERROR] 2022-09-23 14:44:18.360 [main]  - Particular Employee with the given name: kav and email: jh1j3ejnk is not found
+[INFO ] 2022-09-23 19:34:21.999 [main]  - is Employee Created:=true
+[INFO ] 2022-09-23 19:35:14.806 [main]  - Does an employee with email: qwwqq get deleted:=true
+[ERROR] 2022-09-23 19:38:06.760 [main]  - Not able to find with first name: uu
+[INFO ] 2022-09-23 19:39:01.410 [main]  - List of employees who are having first name as: wrett
+[INFO ] 2022-09-23 19:39:01.412 [main]  - Employee [empFirstName=wrett, empLastName=e, empAddress=assffw, empEmail=ddeerrrt, empPhoneNumber=234354657, empDateOfBirth=2000-12-25, empWeddingDate=2000-02-02]
+[INFO ] 2022-09-23 19:40:30.199 [main]  - First name and PhoneNumber of all employees
+[INFO ] 2022-09-23 19:40:59.479 [main]  - Does an employee with email: ddeerrrt get updated:=true
+[INFO ] 2022-09-23 19:41:39.353 [main]  - First name and PhoneNumber of all employees who have born on=2000-12-25
+[INFO ] 2022-09-23 19:41:57.762 [main]  - First name and PhoneNumber of all employees who got married on=2000-02-02
+[ERROR] 2022-09-23 19:42:17.061 [main]  - Not able to find with first name: tty
+[INFO ] 2022-09-23 19:42:58.480 [main]  - First name and PhoneNumber of all employees
+[ERROR] 2022-09-23 19:43:15.385 [main]  - Particular Employee with the given name: ddd and email: ee is not found
+[INFO ] 2022-09-23 19:43:38.100 [main]  - First name and PhoneNumber of all employees who have born on=2500-03-09
+[INFO ] 2022-09-23 19:44:07.017 [main]  - First name and PhoneNumber of all employees who got married on=2002-01-02
